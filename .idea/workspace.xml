@@ -1,39 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="157d8534-734d-4fc7-9f7a-a0a3207aeb44" name="Default Changelist" comment="first &#10;&#10;InsertSort&#10;  StraightInsertSort&#10;  BinaryInsertSort&#10;  ShellSort&#10;selectSort">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/BinaryInsertSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/InsertSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/META-INF/sort.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/ShellSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/heapSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/second/BinaryInsertSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/second/BubbleSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/second/ShellSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/second/StraightInsertSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/second/heapSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/sort/selectSort.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sort.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinaryInsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/heapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/second/BinaryInsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/second/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/second/ShellSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/second/StraightInsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/second/heapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/selectSort.java" afterDir="false" />
+    <list default="true" id="157d8534-734d-4fc7-9f7a-a0a3207aeb44" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,11 +25,22 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sort.iml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="171">
+              <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/out/production/sort/BinaryInsertSort.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#1136#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,15 +77,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="38">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/second/heapSort.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -170,8 +141,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="953" />
-    <option name="width" value="974" />
+    <option name="x" value="1046" />
+    <option name="width" value="881" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -324,12 +295,20 @@
       <workItem from="1562315564070" duration="3189000" />
       <workItem from="1562547829053" duration="5785000" />
       <workItem from="1562592612976" duration="653000" />
-      <workItem from="1562634464185" duration="9525000" />
+      <workItem from="1562634464185" duration="10037000" />
     </task>
+    <task id="LOCAL-00001" summary="first &#10;&#10;InsertSort&#10;  StraightInsertSort&#10;  BinaryInsertSort&#10;  ShellSort&#10;selectSort&#10;  heapSort&#10;  selectSort&#10;swapSort&#10;  BubbleSort">
+      <created>1562652387537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562652387538</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31201000" />
+    <option name="totallyTimeSpent" value="31713000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -341,9 +320,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="953" y="0" width="974" height="1047" extended-state="0" />
+    <frame x="1046" y="0" width="881" height="1047" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31798247" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35409036" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -378,7 +357,8 @@
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="first &#10;&#10;InsertSort&#10;  StraightInsertSort&#10;  BinaryInsertSort&#10;  ShellSort&#10;selectSort&#10;  heapSort&#10;  selectSort&#10;swapSort&#10;  BubbleSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="first &#10;&#10;InsertSort&#10;  StraightInsertSort&#10;  BinaryInsertSort&#10;  ShellSort&#10;selectSort&#10;  heapSort&#10;  selectSort&#10;swapSort&#10;  BubbleSort" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -490,8 +470,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/sort.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="171">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/out/production/sort/BinaryInsertSort.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#1136#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
