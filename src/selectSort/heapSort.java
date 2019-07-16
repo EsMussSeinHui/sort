@@ -34,7 +34,8 @@ public class heapSort {
 
     public static void main(String[] args) {
         int i;
-        int a[] = {20,30,90,40,70,110,60,10,100,50,80};
+//        int a[] = {20,30,90,40,70,110,60,10,100,50,80};
+        int a[] ={1,2};
         System.out.printf("before sort:");
         for (i=0; i<a.length; i++)
             System.out.printf("%d ", a[i]);
